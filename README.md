@@ -1,2 +1,0 @@
-# Reverse-string-
-Reverse string
